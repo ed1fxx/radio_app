@@ -21,6 +21,14 @@ export type Station = {
 
 export const STATIONS: Station[] = [
   {
+    id: "kiss-fm",
+    name: "Radio Kiss FM",
+    city: "Kyiv",
+    genre: "electronic",
+    stream: "https://online.kissfm.ua/KissFM_Ukr",
+    blurb: "Kiss FM Ukraine, world.",
+  },
+  {
     id: "paradise",
     name: "Radio Paradise",
     city: "Калифорния",
