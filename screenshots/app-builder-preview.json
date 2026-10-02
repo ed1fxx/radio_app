@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Эфир",
+      "hasCanvas": false,
+      "bodyTextLen": 158,
+      "bodyTextHash": "dec8525c2168db17d63a30e3869833af9cda0e1b16c755826aa0e19e33629790",
+      "bodyTextPrefix": "Эфир онлайн Эфир — простой радио-бот. Выберите жанр, напишите на",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Эфир",
+      "hasCanvas": false,
+      "bodyTextLen": 158,
+      "bodyTextHash": "dec8525c2168db17d63a30e3869833af9cda0e1b16c755826aa0e19e33629790",
+      "bodyTextPrefix": "Эфир онлайн Эфир — простой радио-бот. Выберите жанр, напишите на",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
